@@ -6,6 +6,8 @@
 
 ---
 
+[View Demo](https://proj-birthday-reminder.netlify.app/)
+
 ## Technology
 
 - React
