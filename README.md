@@ -1,3 +1,13 @@
-## Idea
+# Birthday Reminder
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+---
+
+![birthday reminder](./public/proj-birthday-reminder-preview.png)
+
+---
+
+## Technology
+
+- React
+- HTML
+- css
